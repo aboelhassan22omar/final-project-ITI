@@ -27,3 +27,7 @@ The project demonstrates the core principles of front-end development using **HT
 ---
 
 ## 📁 Project Structure
+
+---
+
+> Deployment re-triggered on GitHub Pages.
